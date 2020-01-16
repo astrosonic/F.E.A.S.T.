@@ -10,3 +10,4 @@ Using ML, AI, DL, DS and AR for Fashion Design
 
 ## Version 
 0.0 - Made the intial github repo and branch for everyone (by Ankit)
+0.1 - Made Folders for organization 
