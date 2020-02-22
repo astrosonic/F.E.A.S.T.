@@ -9,5 +9,10 @@ Using ML, AI, DL, DS and AR for Fashion Design
 - for every changes make notes in git ( eg : V0.7 Add new datasets and made improvements in xzy.py)
 
 ## Version 
-0.0 - Made the intial github repo and branch for everyone (by Ankit)
-0.1 - Made Folders for organization 
+V0.0 - Made the intial github repo and branch for everyone (by Ankit)
+
+
+V0.1 - Made Folders for organization 
+
+
+V0.2 - Added Files for 15 Facpoint model and realtime run code (By Mahij)
