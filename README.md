@@ -16,3 +16,12 @@ V0.1 - Made Folders for organization
 
 
 V0.2 - Added Files for 15 Facpoint model and realtime run code (By Mahij)
+
+V0.3 - Added Distance Calculation using YOLO for object detection (by Mohit)
+### Instructions for the running the code
+
+Download the following files and make sure that all the files are in the same directory.
+
+coco.names - https://github.com/pjreddie/darknet/blob/master/data/coco.names
+yolov3.cfg - https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+yolov3.weights - https://pjreddie.com/media/files/yolov3.weights
