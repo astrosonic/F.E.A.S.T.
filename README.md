@@ -20,18 +20,20 @@ Using ML, AI, DL, DS and AR for Fashion Design
 
 Download the following files and make sure that all the files are in the same directory.
 
-1. coco.names - https://github.com/pjreddie/darknet/blob/master/data/coco.names
-2. yolov3.cfg - https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
-3. yolov3.weights - https://pjreddie.com/media/files/yolov3.weights
+1. [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
+2. [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
+3. [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 
 
 ## Version 
 V0.0 - Made the intial github repo and branch for everyone (by Ankit)
 
-V0.1 - Made Folders for organization 
+V0.1.0 - Made Folders for organization 
 
-V0.2 - Added Files for 15 Facpoint model and realtime run code (By Mahij)
+V0.2.0 - Added Files for 15 Facpoint model and realtime run code (By Mahij)
 
-V0.3 - Added Distance Calculation using YOLO for object detection (by Mohit)
+V0.3.0 - Added Distance Calculation using YOLO for object detection (by Mohit)
 
-V0.4 - Files are arranged into a folder 
+V0.3.1 - Files are arranged into a folder 
+
+V0.3.2 - Updated READ.MD 
