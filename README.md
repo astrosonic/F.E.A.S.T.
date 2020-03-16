@@ -7,15 +7,20 @@ Using ML, AI, DL, DS and AR for Fashion Design
 - Then after review your work will be merged to the Dev Branch 
 - And the final review will be done by Ranjeet Sir to merge in the main branch 
 - for every changes make notes in git ( eg : V0.7 Add new datasets and made improvements in xzy.py)
+
 ## Instructions for the running the Face Key Point
+
 #### Requirement 
 - Webcam 
+
 ###Steps:
+
 1. Download all the files in the folder of key point 
 2. Put all the files in same directory 
 3. Follow the code block in Python notebook 
 4. load the cascade file and model.h5 in the program 
 5. run the program to show the face point thought a webcam 
+
 ### Instructions for the running the Object/Distance code
 
 Download the following files and make sure that all the files are in the same directory.
