@@ -18,6 +18,8 @@ V0.1 - Made Folders for organization
 V0.2 - Added Files for 15 Facpoint model and realtime run code (By Mahij)
 
 V0.3 - Added Distance Calculation using YOLO for object detection (by Mohit)
+
+V0.4 - Files are arranged into a folder 
 ### Instructions for the running the Object/Distance code
 
 Download the following files and make sure that all the files are in the same directory.
