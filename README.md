@@ -13,7 +13,7 @@ Using ML, AI, DL, DS and AR for Fashion Design
 #### Requirement 
 - Webcam 
 
-###Steps:
+### Steps:
 
 1. Download all the files in the folder of key point 
 2. Put all the files in same directory 
