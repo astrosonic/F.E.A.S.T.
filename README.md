@@ -39,6 +39,5 @@ V0.2.0 - Added Files for 15 Facpoint model and realtime run code (By Mahij)
 
 V0.3.0 - Added Distance Calculation using YOLO for object detection (by Mohit)
 
-V0.3.1 - Files are arranged into a folder 
+V0.3.1 - Files are arranged into a folder & Updated READ.MD 
 
-V0.3.2 - Updated READ.MD 
