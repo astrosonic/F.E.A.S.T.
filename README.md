@@ -1,10 +1,10 @@
 # F.E.A.S.T. 
 
 Using ML, AI, DS and AR for Feature Extraction & Augmented Super-imposition Technology
+## Notes
+- Face Key point is taken from [Facial-Keypoints-Detection repo ](https://github.com/astrosonic/Facial-Keypoints-Detection)
 
 ## Notes ( For all team members )
-
-- Face Key point is taken from [Facial-Keypoints-Detection repo ](https://github.com/astrosonic/Facial-Keypoints-Detection)
 - Then after review your work will be merged to the Main Branch 
 - for every changes make notes in git ( eg : V0.7 Add new datasets and made improvements in xzy.py)
 
