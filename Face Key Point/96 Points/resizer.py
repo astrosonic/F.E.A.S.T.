@@ -66,6 +66,6 @@ class Resizer():
         return [images,faces]
 
     def get_original_data(self,data):
-        data=(data*self.width/2)+(self.width/2)
+        data=(data*(self.width/2))+(self.width/2)
         return data
 
