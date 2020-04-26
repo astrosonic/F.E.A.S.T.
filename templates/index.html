@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Mirror</title>
+    <style>
+      div {
+        display: block;
+        margin: auto;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height:300px;
+        width: 400px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Facial KeyPoints detection</h1>
+      <div>
+        <table>
+          <tr>
+            <th>Origianl Feed</th>
+            <th>Keypoints</th>
+          </tr>
+          <tr>
+            <td><img src="{{ url_for('origianl_feed') }}"></td>
+            <td><img src="{{ url_for('keypoints_feed') }}"></td>
+          </tr>
+      </table>  
+      </div>
+  </body>
+</html>
